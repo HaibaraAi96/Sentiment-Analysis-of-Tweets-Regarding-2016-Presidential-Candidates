@@ -5,6 +5,6 @@ about the candidates are mined. This could be an approximate indicator of how th
 a good approximation of the nationwide sentiments due to the high level of internet penetration in the USA (85%-2015)
 
 
-![alt tag](https://github.com/adhok/Sentiment-Analysis-of-Tweets-Regarding-2016-Presidential-Candidates/blob/master/hist.png)
+![alt tag](https://github.com/adhok/Sentiment-Analysis-of-Tweets-Regarding-2016-Presidential-Candidates/blob/master/histogram.png)
 
 ![alt tag](https://github.com/adhok/Sentiment-Analysis-of-Tweets-Regarding-2016-Presidential-Candidates/blob/master/total.png)
